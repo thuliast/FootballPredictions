@@ -19,7 +19,7 @@ if os.path.exists(filename):
 #Build the query string to fetch API
 querystring = {"matket":market,"iso_date":iso_date,"federation":federation}
 headers = {
-	"X-RapidAPI-Key": "8219dd80d3msh7282ceec750492cp1d3297jsnd72e6025f4dd",
+	"X-RapidAPI-Key": "<type your Rapid API Key here>",
 	"X-RapidAPI-Host": "football-prediction-api.p.rapidapi.com"
 }
 
